@@ -186,29 +186,6 @@ An interactive trivia game with a **timed question-and-answer experience** acros
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,18,24,30&section=header" width="100%" alt=""/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=chandana165&show_icons=true&count_private=true&include_all_commits=true&title_color=a855f7&text_color=e2e8f0&icon_color=0ea5e9&bg_color=35,1e1b4b,4c1d95&border_color=6366f1" alt="GitHub Stats" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandana165&layout=compact&langs_count=8&title_color=a855f7&text_color=e2e8f0&bg_color=35,1e1b4b,4c1d95&border_color=6366f1" alt="Most Used Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=chandana165&background=35%2C1e1b4b%2C4c1d95&stroke=6366f1&ring=ec4899&fire=ec4899&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=a855f7&sideLabels=a855f7&dates=94a3b8&border=6366f1" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandana165&theme=onedark&no-frame=true&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandana165&bg_color=1e1b4b&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=6366f1&hide_border=true" alt="Contribution Activity Graph" width="100%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,18,24,30&section=header" width="100%" alt=""/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
