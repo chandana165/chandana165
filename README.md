@@ -23,7 +23,7 @@
 
 [📧 **Email**](mailto:chandanabv26@gmail.com) &nbsp;✦&nbsp;
 [💼 **LinkedIn**](https://linkedin.com/in/b-v-chandana-b528112b3) &nbsp;✦&nbsp;
-[📄 **Resume**](https://drive.google.com/file/d/1l8x58hUqFuV3GpolaTP-AuxCYPFAjMxB/view?usp=sharing) &nbsp;✦&nbsp;
+[📄 **Resume**](https://drive.google.com/file/d/1o5wHSrtW9-_zNVmhWp2fQoCe2WV3Qx54/view?usp=sharing) &nbsp;✦&nbsp;
 [🚀 **Projects**](#-featured-projects)
 
 </div>
@@ -110,7 +110,6 @@ I'm a **Computer Science and Engineering graduate** with a strong foundation in 
 <div align="center">
 
 <a href="https://github.com/chandana165/Personal-Health-Record-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandana165&repo=Personal-Health-Record-&title_color=a855f7&text_color=e2e8f0&icon_color=0ea5e9&bg_color=35,1e1b4b,4c1d95&border_color=6366f1" alt="Personal Health Record System" />
 </a>
 
 </div>
@@ -222,7 +221,7 @@ I'm actively looking for **Software Engineer opportunities**, and I'm always hap
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-B_V_Chandana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/b-v-chandana-b528112b3)
 <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-chandana165-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/chandana165)
-[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1l8x58hUqFuV3GpolaTP-AuxCYPFAjMxB/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o5wHSrtW9-_zNVmhWp2fQoCe2WV3Qx54/view?usp=sharing)
 
 <br/>
 
